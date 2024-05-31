@@ -1,16 +1,16 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Art Portflio By Bhavya Jindal
+email: "bhavyaaajindal@gmail.com"
 description: "Photo Journal"
 url: "https://vivekjindal.github.io"
 baseurl: "/bhavyaArt"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+#facebook_username: ""
+#twitter_username: ""
+instagram_username: "bhavyaaa.002"
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
